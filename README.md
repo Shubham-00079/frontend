@@ -11,4 +11,4 @@
 
 ## Installation:
 1. Clone this repository:
-   ```fronted task
+   fronted task
