@@ -1,1 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
 
+.hero {
+    background: url('https://via.placeholder.com/1600x600') center/cover no-repeat;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.hero .overlay {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.carousel {
+    margin-top: 20px;
+}
