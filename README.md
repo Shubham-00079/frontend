@@ -1,9 +1,9 @@
 # frontend task
 
 ## Features:
-- Responsive UI matching [the given design](https://repo-tech2edge.github.io/tasks/screen/screen.webp).
+- Responsive UI matching [the given design]
 - Interactive elements (dropdowns, carousel, modal).
-- API integration ([Sample API](https://repo-tech2edge.github.io/tasks/sample.json)).
+- API integration ([Sample API]).
 
 ## Tech Stack:
 - HTML, CSS, JavaScript
